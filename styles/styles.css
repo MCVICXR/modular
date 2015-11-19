@@ -33,5 +33,11 @@
   height: 3rem;
   background-color: pink;
 }
+.span {
+  width: 6rem;
+  padding-top: .95rem;
+  display: block;
+  text-align: center;
+}
 
 /* end product */ 
