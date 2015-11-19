@@ -14,10 +14,24 @@
   width: auto;
   height: auto;
 }
+.image {
+  height: 22%;
+  width: 22%;
+  margin-bottom: 1rem;
+}
+.title {
+  width: 22%;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+.price {
+  width: 22%;
+  margin-bottom: 1rem;
+}
 .button {
-  width: 3rem;
-  height: 2rem;
-  background-color: blue;
+  width: 6rem;
+  height: 3rem;
+  background-color: pink;
 }
 
 /* end product */ 
