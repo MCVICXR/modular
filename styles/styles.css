@@ -1,0 +1,23 @@
+/* !CSS */
+
+/* commence primary ignition */
+
+* {
+    box-sizing: border-box;
+  }
+
+/* end primary ignition */
+
+/* start product */
+
+.product{
+  width: auto;
+  height: auto;
+}
+.button {
+  width: 3rem;
+  height: 2rem;
+  background-color: blue;
+}
+
+/* end product */ 
