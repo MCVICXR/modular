@@ -10,30 +10,27 @@
 
 /* start product */
 
-.product{
+.product div {
   width: auto;
   height: auto;
 }
-.image {
-  height: 22%;
-  width: 22%;
+a {
+  text-decoration: none;
+}
+.product img {
   margin-bottom: 1rem;
 }
-.title {
+.product li {
   width: 22%;
   font-weight: 600;
   margin-bottom: 1rem;
 }
-.price {
-  width: 22%;
-  margin-bottom: 1rem;
-}
-.button {
+div.button {
   width: 6rem;
   height: 3rem;
-  background-color: pink;
+  background-color: pink
 }
-.span {
+#button {
   width: 6rem;
   padding-top: .95rem;
   display: block;
